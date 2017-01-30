@@ -59,4 +59,6 @@ gem 'sorcery'
 group :development, :test do
   gem 'rspec-rails'
   gem 'guard-rspec', require: false
+  gem 'factory_girl_rails'
+  gem 'database_rewinder'
 end
