@@ -61,4 +61,5 @@ group :development, :test do
   gem 'guard-rspec', require: false
   gem 'factory_girl_rails'
   gem 'database_rewinder'
+  gem 'rails-controller-testing', require: false
 end
