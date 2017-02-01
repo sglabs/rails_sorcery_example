@@ -62,4 +62,5 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'database_rewinder'
   gem 'rails-controller-testing', require: false
+  gem 'simplecov', require: false
 end
